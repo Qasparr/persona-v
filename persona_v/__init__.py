@@ -18,14 +18,20 @@ Method
 The package: grimoire (the data canon), metronome (the clock),
 thelemic (the stamp), persona (the stance), assignment (the
 election), speculum (the record), shadow (the reading), alethic
-(the judgment), duty (the obligations: Crowley's "Duty" as the
+(the judgment, wired to the ledger; the axis itself lives in the
+standalone trvvth package), anchorage (the gate wired to the
+persona's duties and metronome; the gate itself lives in trvvth),
+duty (the obligations: Crowley's "Duty" as the
 canonical registry for the Oz x Duty balance), thoth (the 22
 trumps: readings, horoscope, and the adapted Book T First
 Operation), coinage (the author's canonical coinages, verbatim),
 corpus (the honest reference library), proficiency (the
 apprentice's arc), naming (the officers' attributes), mothers (the
 Three Mothers pipeline: Babalon absorbs, Lilith filters, Mary
-synthesizes -- the Persona engine's way from Input to Action); cli and api
+synthesizes -- the Persona engine's way from Input to Action),
+soul (the agent's SOUL.md as code, with a template for other AIs),
+memory (the agent's MEMORY.md as code, with daily logs and a
+template for other AIs); cli and api
 as the hands and the front door.
 
 Observation
@@ -80,5 +86,7 @@ from .corpus import (  # noqa: F401
     Document, DOCUMENTS, document, document_ids, by_verdict,
     honesty_report,
 )
+from .soul import Soul  # noqa: F401
+from .memory import Memory, append_log  # noqa: F401
 
-__version__ = "0.20.0"  # mothers.py (Three Mothers pipeline: Babalon -> Lilith -> Mary/Liberty -> Action), two new coinages (three_mothers, mothers_formula); `persona-v mothers` CLI; GET /mothers, POST /mothers/run API routes
+__version__ = "0.21.0"  # the split: TRVVTH gate extracted to the standalone trvvth package (any agent can import the gate); anchorage/alethic now wired wrappers; new soul.py + memory.py (the SOUL.md/MEMORY.md design as code, with templates for other AIs)

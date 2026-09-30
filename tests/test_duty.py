@@ -125,7 +125,7 @@ import persona_v  # noqa: E402
 check("package exports Duty", persona_v.Duty is not None)
 check("package exports resolve_duty",
       persona_v.resolve_duty("self").key == "self")
-check("version bumped", persona_v.__version__ == "0.20.0")
+check("version bumped", persona_v.__version__ == "0.21.0")
 
 # -- CLI ------------------------------------------------------------------
 from persona_v.cli import main  # noqa: E402

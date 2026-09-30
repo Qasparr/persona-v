@@ -1,0 +1,57 @@
+# pyproject.toml — PERSONA V packaging.
+#
+# Install for development:
+#     pip install -e .
+# Then the framework is on PATH:
+#     persona-v assign "audit the deployment logs" --seed 42
+#     persona-v-serve --port 8123
+#
+# The 22 trade charters and 31 aptitude profiles (persona_v/data/*.yaml)
+# ship inside the wheel as package data; the engine loads them relative
+# to the installed package, so no working-directory assumptions survive.
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "persona-v"
+dynamic = ["version"]
+description = "PERSONA V — a Jungian persona framework for AI agents"
+readme = "PERSONA_V.md"
+requires-python = ">=3.10"
+license = { text = "All Rights Reserved" }
+authors = [
+    { name = "Johnathan 'Qasparr' Monroe" },
+]
+keywords = ["jungian", "persona", "tarot", "agents", "thelema"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pyyaml",
+]
+
+[project.optional-dependencies]
+docs = ["fpdf2", "pypdf"]
+
+[project.scripts]
+persona-v = "persona_v.cli:main"
+persona-v-serve = "persona_v.api:serve"
+
+[project.urls]
+Homepage = "https://muse.ai"
+
+[tool.setuptools.dynamic]
+version = { attr = "persona_v.__version__" }
+
+[tool.setuptools.packages.find]
+include = ["persona_v*"]
+
+[tool.setuptools.package-data]
+persona_v = ["data/*.yaml"]

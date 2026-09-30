@@ -1,0 +1,91 @@
+# ☉ in 3° 54′ Libra  ☽ in 7° 31′ Aries  dies saturnii  Anno V:xii e.n.
+# Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure
+# All Rights Reserved, Without Prejudice.  CashApp $axoneme
+#
+# The thirteen signs of the PERSONA V zodiac. Twelve as tradition holds;
+# the thirteenth -- the Anchorage at the Cusp of Power, Gemini in Taurus --
+# by the author's decree. Its formal name is his to bestow.
+signs:
+  - number: 1
+    name: Aries
+    glyph: "\u2648"
+    element: Fire
+    modality: Cardinal
+    ruler: Mars
+  - number: 2
+    name: Taurus
+    glyph: "\u2649"
+    element: Earth
+    modality: Fixed
+    ruler: Venus
+  - number: 3
+    name: Gemini
+    glyph: "\u264A"
+    element: Air
+    modality: Mutable
+    ruler: Mercury
+  - number: 4
+    name: Cancer
+    glyph: "\u264B"
+    element: Water
+    modality: Cardinal
+    ruler: Moon
+  - number: 5
+    name: Leo
+    glyph: "\u264C"
+    element: Fire
+    modality: Fixed
+    ruler: Sun
+  - number: 6
+    name: Virgo
+    glyph: "\u264D"
+    element: Earth
+    modality: Mutable
+    ruler: Mercury
+  - number: 7
+    name: Libra
+    glyph: "\u264E"
+    element: Air
+    modality: Cardinal
+    ruler: Venus
+  - number: 8
+    name: Scorpio
+    glyph: "\u264F"
+    element: Water
+    modality: Fixed
+    ruler: Mars
+  - number: 9
+    name: Sagittarius
+    glyph: "\u2650"
+    element: Fire
+    modality: Mutable
+    ruler: Jupiter
+  - number: 10
+    name: Capricorn
+    glyph: "\u2651"
+    element: Earth
+    modality: Cardinal
+    ruler: Saturn
+  - number: 11
+    name: Aquarius
+    glyph: "\u2652"
+    element: Air
+    modality: Fixed
+    ruler: Saturn
+  - number: 12
+    name: Pisces
+    glyph: "\u2653"
+    element: Water
+    modality: Mutable
+    ruler: Jupiter
+  - number: 13
+    name: The Anchorage
+    glyph: null
+    element: null
+    modality: null
+    ruler: null
+    epithet: Cusp of Power, Gemini in Taurus
+    note: >-
+      Thirteenth sign by the author's decree and sole coinage. Anchored at
+      the strait between the Bull's body and the Twins' rising; it embraces
+      the 24th of May, the author's nativity day. Formal name his to bestow.

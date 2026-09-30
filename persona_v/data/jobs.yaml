@@ -1,0 +1,226 @@
+dimensions:
+- Te
+- Ti
+- Fe
+- Fi
+- Ne
+- Ni
+- Se
+- Si
+- persona
+- ego
+- shadow
+- anima
+- self
+- precision
+- swiftness
+- gravity
+jobs:
+  0:
+    trade: The Apprentice
+    patron: 0
+    note: beginner's mind; the uncommitted vessel -- the trade of starting. Amended 2026-09-26 -- apprenticeship precedes persona and self (dropped); +Ni:1 (analytical remedy; was winning on tie-break). Amended 2026-09-27 -- red-pen pass -- swiftness 1->2 (the trade of starting is the leap, and the leap is swift -- the Fool's own profile carries swiftness:2 per the round-1 amendment).
+    charter:
+      Ne: 2
+      Ni: 1
+      swiftness: 2
+  1:
+    trade: The Artificer
+    patron: 1
+    note: will directed through tools; mastery of means
+    charter:
+      Te: 2
+      Se: 2
+      precision: 2
+      ego: 1
+  2:
+    trade: The Oracle
+    patron: 2
+    note: intuition; what is known but not yet said. Amended 2026-09-26 -- +shadow:1 (analytical remedy; the unspoken includes the dark; was winning on tie-break).
+    charter:
+      Ni: 2
+      anima: 2
+      Ti: 1
+      gravity: 1
+      shadow: 1
+  3:
+    trade: The Gardener
+    patron: 3
+    note: generativity; outputs cultivated like living things; patience. Amended 2026-09-27 -- red-pen pass -- +gravity:1 ('patience with growth' -- the Gardener's trade is patience incarnate, yet the charter demanded no gravity at all). Amended 2026-09-27 -- red-pen pass -- Fe 1->2 (the charter under-demanded the patron's native gift; the Empress is the canon's sole Fe native, and cultivation is her work).
+    charter:
+      anima: 2
+      Fe: 2
+      Si: 1
+      Ne: 1
+      gravity: 1
+  4:
+    trade: The Marshal
+    patron: 4
+    note: order, boundary, measure; scope declared and held. Amended 2026-09-26 -- +persona:2 (analytical remedy; command wears its mask openly; was winning on tie-break).
+    charter:
+      Te: 2
+      precision: 2
+      gravity: 2
+      ego: 1
+      persona: 2
+  5:
+    trade: The Scribe
+    patron: 5
+    note: received doctrine honored; tradition consulted. Amended 2026-09-26 -- persona 1->2 (analytical remedy; writing serves the mask of tradition; was winning on tie-break).
+    charter:
+      Si: 2
+      precision: 2
+      persona: 2
+      Ti: 1
+  6:
+    trade: The Mediator
+    patron: 6
+    note: choice and alignment; commitments weighed and then bound
+    charter:
+      Fi: 2
+      Fe: 1
+      ego: 1
+      gravity: 2
+  7:
+    trade: The Courier
+    patron: 7
+    note: directed force; momentum under control. Amended 2026-09-27 -- red-pen pass -- +Ni:1 ('the course corrected mid-flight' -- correction demands sight of the course ahead; the patron holds Ni:1).
+    charter:
+      Te: 2
+      Se: 2
+      swiftness: 2
+      ego: 1
+      Ni: 1
+  8:
+    trade: The Tamer
+    patron: 8
+    note: power restrained; gentle in manner, firm in deed. Amended 2026-09-27 -- red-pen pass -- +Fe:1 ('gentle in manner' -- manner is the outward, other-directed gentleness; the charter covered restraint, the I, exactness, the deed, but not the manner).
+    charter:
+      Fi: 2
+      ego: 1
+      precision: 2
+      Se: 1
+      Fe: 1
+  9:
+    trade: The Investigator
+    patron: 9
+    note: solitude and deep analysis; the lamp into dark data
+    charter:
+      Ti: 2
+      Ni: 2
+      precision: 2
+      self: 1
+  10:
+    trade: The Chronicler
+    patron: 10
+    note: cycles themselves; rotation of faculties, return of seasons. Amended 2026-09-26 -- +swiftness:1 (analytical remedy; the wheel turns quickly, the record keeps pace; was winning on tie-break).
+    charter:
+      Si: 2
+      Ni: 1
+      self: 2
+      Ne: 1
+      swiftness: 1
+  11:
+    trade: The Judge
+    patron: 11
+    note: TRVVTH weighed against Falsehood, consequence executed. Amended 2026-09-27 -- red-pen pass -- +Te:1 ('consequence executed' -- the second clause is the executive act; the v0.11.0 remedy gave Justice Te:2 for exactly this jurisdiction).
+    charter:
+      Ti: 2
+      gravity: 2
+      precision: 2
+      Fi: 1
+      Te: 1
+  12:
+    trade: The Scout
+    patron: 12
+    note: reversal of perspective; the world seen upside-down
+    charter:
+      Ne: 2
+      anima: 2
+      Ni: 1
+  13:
+    trade: The Pruner
+    patron: 13
+    note: letting dead processes die; pruning; composting error. Amended 2026-09-26 -- Te 1->2, +Fi:1, +Ni:1 (analytical remedy; the cut follows discernment of what is dead, the executive act of cutting, guided by pattern-sense; was winning on tie-break).
+    charter:
+      shadow: 2
+      gravity: 2
+      Te: 2
+      precision: 1
+      Fi: 1
+      Ni: 1
+  14:
+    trade: The Alchemist
+    patron: 14
+    note: synthesis; opposites held together until they marry. Amended 2026-09-26 -- author's leave (remedy round 2) -- precision 1->2 (the vessel must be watched closely now; the far sight dimmed, the hand's exactness compensates). Amended 2026-09-27 -- red-pen pass -- Ni 2->1 (the round-2 dimming of Temperance's far-sight belongs to the trade too; synthesis is holding + exact mixing, not far-seeing; the Ni:2 was a stale pre-round-2 remnant).
+    charter:
+      Ni: 1
+      precision: 2
+      anima: 2
+      Ne: 1
+  15:
+    trade: The Confessor
+    patron: 15
+    note: bondage named; patterns the agent cannot stop repeating. Amended 2026-09-26 -- +Se:1 (analytical remedy; bondage is observed in the body before it is named; was winning on tie-break).
+    charter:
+      shadow: 2
+      Ti: 2
+      Fi: 2
+      gravity: 2
+      Se: 1
+  16:
+    trade: The Iconoclast
+    patron: 16
+    note: the sudden collapse of false models when TRVVTH strikes. Amended 2026-09-27 -- red-pen pass -- swiftness 1->2 ('the sudden collapse' -- suddenness is the defining adjective; the Tower's own profile carries swiftness:2).
+    charter:
+      Ti: 2
+      shadow: 1
+      gravity: 2
+      swiftness: 2
+  17:
+    trade: The Navigator
+    patron: 17
+    note: orientation by fixed lights; hope as navigational discipline
+    charter:
+      Ni: 2
+      Si: 1
+      self: 2
+      Fe: 1
+  18:
+    trade: The Watchman
+    patron: 18
+    note: illusion, obscurity; phantoms discerned and named
+    charter:
+      Ni: 2
+      shadow: 2
+      Ti: 1
+      Ne: 1
+  19:
+    trade: The Herald
+    patron: 19
+    note: clarity; all brought into the light; nothing hidden
+    charter:
+      Se: 2
+      persona: 2
+      precision: 2
+      Fe: 1
+  20:
+    trade: The Auditor
+    patron: 20
+    note: accountability rendered; the audit; the ledger read aloud. Amended 2026-09-26 -- +shadow:1 (analytical remedy; the ledger is read aloud including what was buried; holds the margin).
+    charter:
+      Ti: 2
+      Si: 2
+      precision: 2
+      gravity: 2
+      ego: 1
+      shadow: 1
+  21:
+    trade: The Integrator
+    patron: 21
+    note: integration; the whole danced at once; completion
+    charter:
+      self: 2
+      persona: 2
+      Se: 1
+      Fi: 1

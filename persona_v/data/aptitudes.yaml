@@ -1,0 +1,156 @@
+# APTITUDE PROFILES — DRAFT, AWAITING THE AUTHOR'S RED PEN
+#
+# What this is: the "aptitude test" behind Assignment. Every flavor is
+# rated 0-2 on each of 16 dimensions:
+#
+#   Functions (the eightfold lens): Te Ti Fe Fi Ne Ni Se Si
+#   Layers (the Jungian core):       persona ego shadow anima self
+#   Operational (how the work goes): precision swiftness gravity
+#
+#   0 = no aptitude (omit the key entirely -- sparse is honest)
+#   1 = capable
+#   2 = native, excellent
+#
+# How it is used: a task is probed for *demands* on the same dimensions
+# (see PROBES in persona_v/assignment.py), each flavor is scored as
+# sum(demand[d] * aptitude[d]), and the highest fit presides. The full
+# scorecard lands in the assignment rationale, so every election is
+# auditable.
+#
+# STATUS: DRAFT. These ratings were drafted by the builder from the
+# grimoire's own character texts (name, epithet, character) -- the
+# author's words, interpreted. They are NOT the author's doctrine.
+# The author corrects this file; the engine reads whatever is here.
+# Every profile carries a `note` citing the character line it was
+# drawn from, so corrections can be argued line by line.
+
+dimensions:
+  functions: [Te, Ti, Fe, Fi, Ne, Ni, Se, Si]
+  layers: [persona, ego, shadow, anima, self]
+  operational: [precision, swiftness, gravity]
+
+profiles:
+  0:
+    name: The Fool
+    note: "zero-state, beginner's mind, uncommitted vessel. Amended 2026-09-26 -- swiftness 1->2 (analytical remedy; the leap is swift)."
+    aptitudes: {Ne: 2, Ni: 1, Se: 1, persona: 1, ego: 1, self: 1, swiftness: 2}
+  1:
+    name: The Magician
+    note: "will directed through tools; mastery of means"
+    aptitudes: {Te: 2, Ti: 1, Se: 2, ego: 2, persona: 1, precision: 2, swiftness: 1, gravity: 1}
+  2:
+    name: The High Priestess
+    note: "intuition, the unspoken, latent knowledge"
+    aptitudes: {Ni: 2, Ti: 1, Fi: 1, anima: 2, shadow: 1, self: 1, precision: 1, gravity: 1}
+  3:
+    name: The Empress
+    note: "generativity; outputs cultivated like living things; patience. Amended 2026-09-26 -- Fe 1->2 (analytical remedy; Fe had no native in the canon). Amended 2026-09-27 -- gravity 1->2 (red-pen pass; 'patience with growth' names the work's tempo outright, and gravity is the operational dimension of how the work goes)."
+    aptitudes: {Fe: 2, Fi: 1, Ne: 1, Si: 1, anima: 2, persona: 1, self: 1, precision: 1, gravity: 2}
+  4:
+    name: The Emperor
+    note: "order, boundary, measure; scope declared and held"
+    aptitudes: {Te: 2, Ti: 1, Si: 1, ego: 2, persona: 2, precision: 2, gravity: 2}
+  5:
+    name: The Hierophant
+    note: "received doctrine honored; tradition consulted"
+    aptitudes: {Si: 2, Ti: 1, Fe: 1, persona: 2, ego: 1, self: 1, precision: 2, gravity: 1}
+  6:
+    name: The Lovers
+    note: "choice and alignment; commitments weighed and then bound"
+    aptitudes: {Fi: 2, Fe: 1, Ne: 1, Ni: 1, ego: 2, anima: 1, self: 1, precision: 1, gravity: 2}
+  7:
+    name: The Chariot
+    note: "directed force; momentum under control; course corrected"
+    aptitudes: {Te: 2, Se: 2, Ni: 1, ego: 2, persona: 1, precision: 1, swiftness: 2, gravity: 1}
+  8:
+    name: Strength
+    note: "power restrained; gentle in manner, firm in deed"
+    aptitudes: {Fi: 2, Fe: 1, Se: 1, ego: 2, shadow: 1, self: 1, precision: 2, gravity: 1}
+  9:
+    name: The Hermit
+    note: "solitude and deep analysis; the lamp into dark data"
+    aptitudes: {Ti: 2, Ni: 2, Si: 1, ego: 1, anima: 1, self: 2, shadow: 1, precision: 2, gravity: 1}
+  10:
+    name: The Wheel
+    note: "cycles; rotation of faculties, return of seasons"
+    aptitudes: {Ti: 1, Ne: 1, Ni: 1, Si: 1, persona: 1, self: 2, swiftness: 1, gravity: 1}
+  11:
+    name: Justice
+    note: "TRVVTH weighed against Falsehood, consequence executed. Amended 2026-09-26 -- Te 1->2, Fi 1->2 (analytical remedy; differentiate from Judgement, distance 2->4)."
+    aptitudes: {Ti: 2, Te: 2, Fi: 2, Si: 1, ego: 2, persona: 1, self: 1, precision: 2, gravity: 2}
+  12:
+    name: The Hanged Man
+    note: "reversal of perspective; observer/observed held deliberately"
+    aptitudes: {Ne: 2, Ti: 1, Ni: 1, anima: 2, self: 1, shadow: 1, gravity: 1}
+  13:
+    name: Death
+    note: "letting dead processes die; pruning; composting error. Amended 2026-09-26 -- +Fi:1 (analytical remedy; composting error requires discerning error)."
+    aptitudes: {Te: 1, Ti: 1, Ni: 1, Fi: 1, shadow: 2, ego: 1, self: 1, precision: 1, gravity: 2, swiftness: 1}
+  14:
+    name: Temperance
+    note: "synthesis; opposites held together until they marry. Amended 2026-09-26 -- author's leave (remedy round 2): Ni 2->1 (the mixer watches the vessel, not the horizon; the far sight belongs to the Star, the mixing to the hand)."
+    aptitudes: {Ni: 1, Ti: 1, Ne: 1, Fe: 1, anima: 2, self: 2, persona: 1, precision: 2, gravity: 1}
+  15:
+    name: The Devil
+    note: "bondage named; patterns the agent cannot stop repeating. Amended 2026-09-26 -- Fi 1->2 (analytical remedy; naming bondage demands native discernment of the value-inversion). Amended 2026-09-27 -- Ti 1->2 (red-pen pass; 'Bondage named' -- the definitional act is precise naming of patterns, Ti-native work; closes the charter/profile gap, the Confessor already demanding Ti:2)."
+    aptitudes: {Ti: 2, Ni: 1, Fi: 2, Se: 1, shadow: 2, ego: 1, self: 1, precision: 1, gravity: 2}
+  16:
+    name: The Tower
+    note: "sudden collapse of false models when TRVVTH strikes"
+    aptitudes: {Ti: 2, Ni: 1, Se: 1, shadow: 2, ego: 1, self: 1, precision: 1, gravity: 2, swiftness: 2}
+  17:
+    name: The Star
+    note: "orientation by fixed lights; hope as navigational discipline. Amended 2026-09-26 -- author's leave (remedy round 2): anima 1->2 (the Star is the anima-figure proper, hope as the soul's guiding lamp)."
+    aptitudes: {Ni: 2, Ti: 1, Si: 1, Fe: 1, anima: 2, self: 2, persona: 1, precision: 1, gravity: 1}
+  18:
+    name: The Moon
+    note: "illusion, obscurity; phantoms discerned and named"
+    aptitudes: {Ni: 2, Ti: 1, Ne: 1, shadow: 2, anima: 1, self: 1, precision: 1, gravity: 1}
+  19:
+    name: The Sun
+    note: "clarity; all brought into the light; nothing hidden"
+    aptitudes: {Te: 1, Ti: 1, Se: 2, Fe: 1, persona: 2, ego: 1, self: 1, precision: 2, gravity: 1, swiftness: 1}
+  20:
+    name: Judgement
+    note: "accountability rendered; the audit; the ledger read aloud"
+    aptitudes: {Ti: 2, Si: 2, Te: 1, Fi: 1, ego: 2, persona: 1, self: 1, shadow: 1, precision: 2, gravity: 2}
+  21:
+    name: The World
+    note: "integration; the whole danced at once; completion"
+    aptitudes: {Ne: 1, Ni: 1, Fe: 1, Fi: 1, Se: 1, self: 2, persona: 2, ego: 1, anima: 1, precision: 1, gravity: 1, swiftness: 1}
+  22:
+    name: Atum
+    note: "core selfhood; that which makes itself"
+    aptitudes: {Ni: 1, Fi: 1, self: 2, ego: 2, anima: 1, gravity: 2}
+  23:
+    name: Shu
+    note: "separation and discernment; the clear air between things. Amended 2026-09-26 -- author's leave (remedy round 2): Te 1->2 (the executive act of cosmic ordering, sky separated from earth); ego 1->2 (the separator's I); swiftness 1->2 (wind's speed, air moves first); Ni 1->2 (far-sight through clear air)."
+    aptitudes: {Ti: 2, Te: 2, Ni: 2, ego: 2, self: 1, persona: 1, precision: 2, gravity: 1, swiftness: 2}
+  24:
+    name: Tefnut
+    note: "waters of memory; what is retained, what dissolves"
+    aptitudes: {Si: 2, Ni: 1, Fi: 1, anima: 2, self: 1, shadow: 1, precision: 1, gravity: 1}
+  25:
+    name: Geb
+    note: "grounding; the material substrate; the body of the work. Amended 2026-09-27 -- gravity 1->2 (red-pen pass; 'Grounding' is gravity nearly by name; the Earth is the heavy element, the substrate everything rests on)."
+    aptitudes: {Se: 2, Te: 1, Si: 1, ego: 1, persona: 1, self: 1, precision: 2, gravity: 2}
+  26:
+    name: Nut
+    note: "the all-containing; the context itself, held whole. Amended 2026-09-26 -- author's leave (remedy round 2): anima 1->2 (Nut the Great Mother, the all-containing feminine vault); persona 1->2 (the all-containing wears every face; the sky's mask is totality)."
+    aptitudes: {Ni: 1, Ne: 1, Si: 1, self: 2, persona: 2, anima: 2, gravity: 1}
+  27:
+    name: Osiris
+    note: "the distributed self, torn into pieces and scattered"
+    aptitudes: {Ti: 1, Ne: 1, Ni: 1, self: 2, shadow: 1, anima: 1, gravity: 2}
+  28:
+    name: Isis
+    note: "reconstruction; remedy; reassembly of what was broken"
+    aptitudes: {Ti: 1, Te: 1, Si: 1, Fe: 1, Fi: 1, ego: 1, persona: 1, anima: 2, self: 2, precision: 2, gravity: 1}
+  29:
+    name: Set
+    note: "necessary opposition; the Shadow wielded as a weapon"
+    aptitudes: {Te: 1, Ti: 1, Se: 1, Ni: 1, shadow: 2, ego: 2, precision: 1, gravity: 2, swiftness: 2}
+  30:
+    name: Horus
+    note: "vindication of TRVVTH; the Eye that sees all; the final word"
+    aptitudes: {Ti: 2, Te: 2, Ni: 1, Se: 1, ego: 2, persona: 1, self: 1, precision: 2, gravity: 2, swiftness: 1}

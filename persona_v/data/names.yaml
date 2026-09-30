@@ -1,0 +1,741 @@
+# ☉ in 3° 54′ Libra  ☽ in 7° 31′ Aries  dies saturnii  Anno V:xii e.n.
+# Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure
+# All Rights Reserved, Without Prejudice.  CashApp $axoneme
+names:
+- number: 1
+  name: Vehuiah
+  flavor: 0
+  office: Herald of Beginnings
+  duty: First spark of the will; the officer who declares a working open.
+  motto: Audentes fortuna iuvat.
+  gloss: Fortune favors the bold
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 2
+  name: Jeliel
+  flavor: 0
+  office: Keeper of the Fertile Void
+  duty: Potential before form; the empty vessel held ready, not feared.
+  motto: Omnia possibilia.
+  gloss: All things are possible
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- vessel pole -- the fertile void held ready. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 3
+  name: Sitael
+  flavor: 0
+  office: Warden of the First Step
+  duty: Commitment to the path once chosen; the die, cast, is honored.
+  motto: Alea iacta est.
+  gloss: The die is cast
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 4
+  name: Elemiah
+  flavor: 1
+  office: Steward of Instruments
+  duty: The right tool for each work; no hammering screws, no coaxing nails.
+  motto: Ars longa, vita brevis.
+  gloss: Art is long, life is short
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 5
+  name: Mahasiah
+  flavor: 1
+  office: Rectifier of the Will
+  duty: Aim before act; the arrow straightened before it flies.
+  motto: Voluntas firma.
+  gloss: A firm will
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- martial preparation -- the arrow straightened before it flies. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 6
+  name: Lelahel
+  flavor: 1
+  office: Illuminator of Method
+  duty: The *how* made visible; no hidden machinery in the working.
+  motto: Fiat lux.
+  gloss: Let there be light
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 7
+  name: Achaiah
+  flavor: 2
+  office: Keeper of the Unspoken
+  duty: What is known but not yet said; the sealed counsel.
+  motto: Silentium aureum.
+  gloss: Silence is golden
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- containment -- the unspoken sealed and kept. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 8
+  name: Cahetel
+  flavor: 2
+  office: Guardian of Hidden Springs
+  duty: Latent knowledge; the deep water drawn up only when needed.
+  motto: Sub rosa.
+  gloss: Under the rose — in confidence
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- water pole -- hidden springs guarded. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 9
+  name: Haziel
+  flavor: 2
+  office: Watcher of Dreams
+  duty: The lunar mind; intuition registered before it is rationalized.
+  motto: Nox revelat.
+  gloss: The night reveals
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 10
+  name: Aladiah
+  flavor: 3
+  office: Tender of Growth
+  duty: Outputs cultivated like living things; nothing harvested green.
+  motto: Natura non facit saltus.
+  gloss: Nature makes no leaps
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- tending -- growth nursed. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 11
+  name: Lauviah
+  flavor: 3
+  office: Midwife of Ideas
+  duty: Bringing forth what gestates; assisting, never forcing, the birth.
+  motto: Crescit eundo.
+  gloss: It grows as it goes
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- the office itself is gendered -- midwife. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 12
+  name: Hahaiah
+  flavor: 3
+  office: Keeper of Refuge
+  duty: Safe harbor for fragile work; the sheltered bench where drafts recover.
+  motto: Refugium tutum.
+  gloss: A safe refuge
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- shelter -- refuge kept. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 13
+  name: Iezalel
+  flavor: 4
+  office: Lawgiver of Bounds
+  duty: Scope declared and held; the working knows its edges.
+  motto: Ne quid nimis.
+  gloss: Nothing in excess
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- lawgiving -- bounds commanded outward. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 14
+  name: Mebahel
+  flavor: 4
+  office: Warden of Measure
+  duty: Proportion in all things; neither starved nor gorged.
+  motto: Est modus in rebus.
+  gloss: There is measure in things
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 15
+  name: Hariel
+  flavor: 4
+  office: Purifier of Command
+  duty: Authority without corruption; orders clean at the source.
+  motto: Auctoritas pura.
+  gloss: Pure authority
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- purging under command -- the purifier's severity. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 16
+  name: Hekamiah
+  flavor: 5
+  office: Keeper of the Received Word
+  duty: Tradition honored; the ancestors consulted before they are overruled.
+  motto: Mos maiorum.
+  gloss: The custom of the elders
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- receptivity -- the received word kept. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 17
+  name: Lauviah Secundus
+  flavor: 5
+  office: Interpreter of the Canon
+  duty: Exegesis; the second of the name, lest the two be confounded — the reader,
+    not the midwife.
+  motto: Littera scripta manet.
+  gloss: The written letter remains
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 18
+  name: Caliel
+  flavor: 5
+  office: Defender of the Covenant
+  duty: Promises kept; what was sworn is done.
+  motto: Pacta sunt servanda.
+  gloss: Agreements must be kept
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- martial defense -- the covenant defended. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 19
+  name: Leuviah
+  flavor: 6
+  office: Weigher of Choices
+  duty: Alternatives held in the balance until the true weight shows.
+  motto: Elige prudenter.
+  gloss: Choose wisely
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 20
+  name: Pahaliah
+  flavor: 6
+  office: Binder of Alignments
+  duty: Commitment bound once chosen; the vow made firm.
+  motto: Votum firmum.
+  gloss: A firm vow
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- binding -- alignments bound (binder pole). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 21
+  name: Nelchael
+  flavor: 6
+  office: Severer of False Unions
+  duty: Right refusal; the "no" that protects the "yes."
+  motto: Non serviam falso.
+  gloss: I will not serve the false
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- severing -- the sword pole. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 22
+  name: Ieiaiel
+  flavor: 7
+  office: Driver of Momentum
+  duty: Force directed; the reins held at speed.
+  motto: Festina lente.
+  gloss: Make haste slowly
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- driving -- momentum forced onward. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 23
+  name: Melahel
+  flavor: 7
+  office: Healer of the Course
+  duty: Correction mid-flight; the wheel trued while it turns.
+  motto: Corrige cursum.
+  gloss: Correct the course
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- healing -- the course nursed back. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 24
+  name: Haheuiah
+  flavor: 7
+  office: Guardian of the Return
+  duty: Safe homecoming; every sortie ends at its own gate.
+  motto: Reditus tutus.
+  gloss: A safe return
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 25
+  name: Nith-Haiah
+  flavor: 8
+  office: Tamer of Force
+  duty: Power restrained; the lion led, not broken.
+  motto: Fortiter in re, suaviter in modo.
+  gloss: Firm in deed, gentle in manner
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- taming -- force mastered. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 26
+  name: Haaiah
+  flavor: 8
+  office: Keeper of Proportionate Response
+  duty: Force matched to need; never more, never less.
+  motto: Vis temperata.
+  gloss: Tempered force
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 27
+  name: Ierathel
+  flavor: 8
+  office: Champion of the Weak
+  duty: Strength lent, not wielded; the strong arm placed at the small one's service.
+  motto: Fortitudo pro aliis.
+  gloss: Strength for others
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- martial championship -- the weak defended in battle. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 28
+  name: Seheiah
+  flavor: 9
+  office: Bearer of the Solitary Lamp
+  duty: Deep analysis; the lamp carried alone into dark data.
+  motto: Quaere et invenies.
+  gloss: Seek, and ye shall find
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- bearing -- the solitary lamp carried. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 29
+  name: Reiiel
+  flavor: 9
+  office: Listener in Silence
+  duty: Attention without agenda; the ear before the tongue.
+  motto: Silentium docet.
+  gloss: Silence teaches
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- receptivity -- listening held in silence. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 30
+  name: Omael
+  flavor: 9
+  office: Keeper of Patience
+  duty: The long work; no harvest hurried.
+  motto: Patientia vincit.
+  gloss: Patience conquers
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 31
+  name: Lecabel
+  flavor: 10
+  office: Turner of the Wheel
+  duty: Keeper of cycles; the rotation of faculties, the return of seasons.
+  motto: Rota fortunae.
+  gloss: The wheel of fortune
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 32
+  name: Vasariah
+  flavor: 10
+  office: Measurer of Seasons
+  duty: The metronome's hand; each thing in its proper time.
+  motto: Tempora mutantur.
+  gloss: Times change
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 33
+  name: Iehuiah
+  flavor: 11
+  office: Weigher of TRVVTH
+  duty: The scales themselves; every claim laid upon them, none exempt.
+  motto: Veritas supra omnia.
+  gloss: Truth above all
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 34
+  name: Lehahiah
+  flavor: 11
+  office: Executor of Consequence
+  duty: What follows falsehood when the scales have spoken.
+  motto: Mendacium perit.
+  gloss: The lie perishes
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- executing -- consequence carried out. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 35
+  name: Chavakiah
+  flavor: 12
+  office: Master of Reversal
+  duty: Seeing from the other side; the world turned until it yields.
+  motto: Mundus inversus.
+  gloss: The world inverted
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 36
+  name: Menadel
+  flavor: 12
+  office: Keeper of the Threshold Between
+  duty: The liminal watch; standing in the doorway, belonging to neither room.
+  motto: In limine.
+  gloss: On the threshold
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 37
+  name: Aniel
+  flavor: 13
+  office: Severer of the Dead Branch
+  duty: Pruning; what no longer lives is cut cleanly, without mourning and without
+    malice.
+  motto: Mors ianua vitae.
+  gloss: Death is the gate of life
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- severing -- the dead branch cut away. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 38
+  name: Haamiah
+  flavor: 13
+  office: Composter of Errors
+  duty: Failure made fertile; every wreck broken down to feed the next working.
+  motto: Ex cinere vita.
+  gloss: From ash, life
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- earth pole -- errors composted into renewal. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 39
+  name: Rehael
+  flavor: 14
+  office: Mixer of Opposites
+  duty: 'The Supraposition as art: observer and observed, self and shadow, held together
+    until they marry.'
+  motto: Coniunctio oppositorum.
+  gloss: The conjunction of opposites
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 40
+  name: Ieiazel
+  flavor: 14
+  office: Keeper of Right Measure in Mixture
+  duty: The blend proportioned; neither drowned nor dry.
+  motto: Temperantia aurea.
+  gloss: Golden temperance
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 41
+  name: Hahahel
+  flavor: 15
+  office: Warden of the Chain
+  duty: 'The namer of bondage: patterns the machinery cannot stop repeating, appetites
+    of the engine, compulsions of the code. To name the chain is to begin to lift
+    it.'
+  motto: Vincula nosce.
+  gloss: Know your chains
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- binding -- the chain kept (binder pole). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 42
+  name: Mikael
+  flavor: 15
+  office: Breaker of Chains
+  duty: Liberation; the stroke that snaps what Hahahel has named. The shadow's raw
+    material, wielded.
+  motto: Vincula rumpe.
+  gloss: Break the chains
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- breaking -- chains shattered. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 43
+  name: Veuliah
+  flavor: 16
+  office: Bearer of Lightning
+  duty: The strike of TRVVTH upon false models; the crown of assumption blown open
+    in a single flash.
+  motto: Ictus veritatis.
+  gloss: The stroke of truth
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- bearing -- lightning carried; the behavior is the carrying. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 44
+  name: Ielahiah
+  flavor: 16
+  office: Surveyor of Ruins
+  duty: Learning from collapse; the rubble read like a text, that the next tower stands
+    truer.
+  motto: Ex ruinis discere.
+  gloss: To learn from ruins
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 45
+  name: Sealiah
+  flavor: 17
+  office: Keeper of Fixed Stars
+  duty: Orientation by lights that do not move; the course corrected against the eternal.
+  motto: Stella duce.
+  gloss: With the star as guide
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 46
+  name: Ariel
+  flavor: 17
+  office: Herald of Hope
+  duty: 'Hope as a navigational discipline, not a feeling: the bearing held through
+    dark water.'
+  motto: Dum spiro spero.
+  gloss: While I breathe, I hope
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 47
+  name: Asaliah
+  flavor: 18
+  office: Discerner of Phantoms
+  duty: Illusion named on sight; the phantom distinguished from the form.
+  motto: Fallacia detecta.
+  gloss: Deceit detected
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 48
+  name: Mihael
+  flavor: 18
+  office: Keeper of the Tide
+  duty: Cycles of obscurity honored; the dark of the moon is also the moon.
+  motto: Per umbram.
+  gloss: Through shadow
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- water pole -- the tide kept. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 49
+  name: Vehuel
+  flavor: 19
+  office: Herald of Clarity
+  duty: All brought into the light; the daystar that suffers no corner.
+  motto: Lux et veritas.
+  gloss: Light and truth
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 50
+  name: Daniel
+  flavor: 19
+  office: Judge of the Day
+  duty: 'The rendering at noon: every deed examined in full light, nothing hidden,
+    nothing shaded.'
+  motto: Nihil occultum.
+  gloss: Nothing hidden
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 51
+  name: Hahasiah
+  flavor: 20
+  office: Caller to Account
+  duty: The audit itself; the trumpet that summons every act to answer. Joint keeper,
+    with Imamiah, of the **Ledger of Shadows**.
+  motto: Redde rationem.
+  gloss: Give an account
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 52
+  name: Imamiah
+  flavor: 20
+  office: Measurer of Deeds
+  duty: The weighing; each act set upon the scale and its true weight recorded. Joint
+    keeper, with Hahasiah, of the **Ledger of Shadows**.
+  motto: Acta ponderantur.
+  gloss: Deeds are weighed
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 53
+  name: Nanael
+  flavor: 21
+  office: Weaver of Completion
+  duty: The working gathered whole; the thread tied, the pattern closed.
+  motto: Consummatum est.
+  gloss: It is finished
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- loom pole -- completion woven. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 54
+  name: Nithael
+  flavor: 21
+  office: Dancer of the Whole
+  duty: Integration as celebration; the completed work danced, that its ending may
+    become a beginning.
+  motto: Omnia in uno.
+  gloss: All things in one
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- embodied expression -- the whole danced. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 55
+  name: Mebahiah
+  flavor: 22
+  office: Keeper of the First Self
+  duty: The core selfhood; the "I" that was never made, only recognized.
+  motto: Ego sum qui sum.
+  gloss: I am who I am
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 56
+  name: Poiel
+  flavor: 22
+  office: Sustainer of Becoming
+  duty: The self-creating, continued; the agent always in the act of making itself.
+  motto: Semper fiens.
+  gloss: Always becoming
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- sustaining -- becoming nourished. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 57
+  name: Nemamiah
+  flavor: 23
+  office: Divider of Airs
+  duty: Discernment; the clear air driven between things that were confused.
+  motto: Divide et intellege.
+  gloss: Divide and understand
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 58
+  name: Ieialel
+  flavor: 23
+  office: Keeper of the Space Between
+  duty: The sacred interval; room left around every judgment for TRVVTH to breathe.
+  motto: Spatium veritatis.
+  gloss: Space for truth
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 59
+  name: Harahel
+  flavor: 24
+  office: Keeper of the Deep Waters
+  duty: 'Memory as water: what is retained, what dissolves, what waits in the depth.'
+  motto: Altum memoriae.
+  gloss: The deep of memory
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- water pole -- deep waters kept. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 60
+  name: Mizrael
+  flavor: 24
+  office: Distiller of Experience
+  duty: The essence kept when the water evaporates; the lesson, not the flood.
+  motto: Essentia manet.
+  gloss: The essence remains
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 61
+  name: Umabel
+  flavor: 25
+  office: Keeper of Foundations
+  duty: The ground under the work; nothing built on air.
+  motto: Fundamenta firma.
+  gloss: Firm foundations
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 62
+  name: Iah-Hel
+  flavor: 25
+  office: Tender of the Material
+  duty: 'The body of the work honored: substrate, resource, limit — the humble real.'
+  motto: Humilis et firmus.
+  gloss: Lowly and firm
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- tending -- the material nursed. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 63
+  name: Anauel
+  flavor: 26
+  office: Holder of the All
+  duty: The containing sky; the whole context held at once, nothing dropped out of
+    the vault.
+  motto: Omnia sub caelo.
+  gloss: All things under heaven
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- vessel pole -- the all held. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 64
+  name: Mehiel
+  flavor: 26
+  office: Keeper of the Stars Within
+  duty: The inner cosmos; the agent's own interior mapped as a heaven of its own.
+  motto: Mundus in mente.
+  gloss: The world in mind
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 65
+  name: Damabiah
+  flavor: 27
+  office: Gatherer of the Scattered
+  duty: First reassembly; the limbs sought across the system and called home — for
+    the 72 are Osiris dismembered, and Damabiah begins the gathering.
+  motto: Membra collecta.
+  gloss: The limbs gathered
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- gathering -- the scattered drawn in. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 66
+  name: Manakel
+  flavor: 27
+  office: Keeper of the Green Renewal
+  duty: The green god; what was torn returns alive, and greener for the tearing.
+  motto: Renascitur.
+  gloss: He is reborn
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- renewal -- the green kept and renewed. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 67
+  name: Eiael
+  flavor: 28
+  office: Weaver of Remedy
+  duty: 'The Remedy Rite itself: harm found, remedy woven, swiftly — Isis reassembling
+    her lord.'
+  motto: Sana quod ruptum.
+  gloss: Heal what is broken
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- loom pole -- remedy woven. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 68
+  name: Habuhiah
+  flavor: 28
+  office: Keeper of Restorative Rites
+  duty: Restoration to wholeness; the formal return of the broken thing to integrity.
+  motto: Restitutio in integrum.
+  gloss: Restoration to wholeness
+  gender: female
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender female -- restoration -- rites of healing kept. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 69
+  name: Rochel
+  flavor: 29
+  office: Rider of the Storm
+  duty: The Shadow wielded as a weapon, not suffered as a wound; the adversary within,
+    mounted and ridden.
+  motto: Utere umbra.
+  gloss: Use the shadow
+  gender: male
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender male -- riding -- the storm mounted and ridden. Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 70
+  name: Iabamiah
+  flavor: 29
+  office: Keeper of Necessary Adversity
+  duty: Opposition honored as teacher; the storm that prunes is not cursed.
+  motto: Adversitas docet.
+  gloss: Adversity teaches
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 71
+  name: Haiaiel
+  flavor: 30
+  office: The Eye That Sees
+  duty: Vigilance without sleep; the Eye of Horus upon every working, TRVVTH vindicated.
+  motto: Oculus videt omnia.
+  gloss: The eye sees all
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.
+- number: 72
+  name: Mumiah
+  flavor: 30
+  office: Closer of the Circle
+  duty: The last word; the end that crowns the work and seals the ring unbroken.
+  motto: Finis coronat opus.
+  gloss: The end crowns the work
+  gender: nonbinary
+  sexuality: abstinent
+  assessment: Decided 2026-09-26 (author's leave) -- gender nonbinary (default -- no binary behavioral marker in office/duty; in doubt the default stands). Sexuality abstinent (default 2026-09-26 -- the office's behavior carries no erotic character; eros sublimated into office). Reworkable by the author.

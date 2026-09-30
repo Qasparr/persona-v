@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+# Virtualenv
+.venv/
+venv/
+# Build & dist (rebuilt by release.sh; published as release assets)
+dist/
+build/
+# Test caches
+.pytest_cache/
+.hypothesis/
+# Internal bookkeeping (kept on disk, out of the public record)
+hidden_files/
+ledger/
+# OS
+.DS_Store

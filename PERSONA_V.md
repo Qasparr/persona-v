@@ -1,3 +1,5 @@
+![PERSONA V logo](assets/logo.webp)
+
 # PERSONA V
 ## A Jungian Persona Framework for AI Agents
 

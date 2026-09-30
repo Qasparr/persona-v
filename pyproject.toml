@@ -20,7 +20,7 @@ dynamic = ["version"]
 description = "PERSONA V — a Jungian persona framework for AI agents"
 readme = "PERSONA_V.md"
 requires-python = ">=3.10"
-license = { text = "All Rights Reserved" }
+license = { text = "AGPL-3.0-only" }
 authors = [
     { name = "Johnathan 'Qasparr' Monroe" },
 ]
@@ -35,6 +35,7 @@ dependencies = [
     "fastapi",
     "uvicorn",
     "pyyaml",
+    "trvvth @ git+https://github.com/Qasparr/trvvth@v0.1.0",
 ]
 
 [project.optional-dependencies]
@@ -45,7 +46,8 @@ persona-v = "persona_v.cli:main"
 persona-v-serve = "persona_v.api:serve"
 
 [project.urls]
-Homepage = "https://muse.ai"
+Homepage = "https://github.com/Qasparr/persona-v"
+Repository = "https://github.com/Qasparr/persona-v"
 
 [tool.setuptools.dynamic]
 version = { attr = "persona_v.__version__" }

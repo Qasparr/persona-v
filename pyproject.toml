@@ -20,7 +20,7 @@ dynamic = ["version"]
 description = "PERSONA V — a Jungian persona framework for AI agents"
 readme = "PERSONA_V.md"
 requires-python = ">=3.10"
-license = { text = "AGPL-3.0-only" }
+license = "AGPL-3.0-only"
 authors = [
     { name = "Johnathan 'Qasparr' Monroe" },
 ]

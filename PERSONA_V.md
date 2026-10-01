@@ -1146,7 +1146,9 @@ uses 78 cards over five operations. `persona_v/coinage.py`: the
 author's canonical coinages, verbatim and stamped — the Dictum
 restored ("Every Man, Woman, and Child is a Star"), Murphy's Law
 reframed ("What can occur — will." = 93, Will in action, liberty
-as the fulfillment of the law, Ma'at), the Ma'at dictum with its
+as the fulfillment of the law, Ma'at; Will in Action the Active Energy
+for the forming of the Nation of Indivisible Individual Institutions,
+the Eye of the Triangle holding both as one), the Ma'at dictum with its
 load-bearing comma ("Live, Love, and let Love, Live."), the Aeon
 of Ma'at, the motto IA.'.A.'.M.TRVVTH, the Golden Rule as the Only
 Rule. `persona_v/corpus.py`: the eight uploaded documents as an

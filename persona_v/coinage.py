@@ -84,7 +84,7 @@ COINAGES: dict[str, Coinage] = {
         note=(
             "Johnathan's fix: drops the negative inherent undertone that "
             "depicts the law as a negative. Occurrence is neutral; made "
-            "equivalent to 93 as Will in action; the fulfillment of the law "
+            "equivalent to 93 as Will in action, in line with TRVVTH; the fulfillment of the law "
             "is liberty -- Ma'at; and Will in Action is the Active Energy "
             "for the forming of the Nation of Indivisible Individual "
             "Institutions. The Eye of the Triangle holds both as one."

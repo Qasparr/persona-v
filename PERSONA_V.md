@@ -1145,7 +1145,7 @@ dignities) with the honest notice that the full Opening of the Key
 uses 78 cards over five operations. `persona_v/coinage.py`: the
 author's canonical coinages, verbatim and stamped — the Dictum
 restored ("Every Man, Woman, and Child is a Star"), Murphy's Law
-reframed ("What can occur — will." = 93, Will in action, liberty
+reframed ("What can occur — will." = 93, Will in action, in line with TRVVTH, liberty
 as the fulfillment of the law, Ma'at; Will in Action the Active Energy
 for the forming of the Nation of Indivisible Individual Institutions,
 the Eye of the Triangle holding both as one), the Ma'at dictum with its

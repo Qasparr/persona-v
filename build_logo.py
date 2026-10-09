@@ -17,8 +17,11 @@
 #            2) Raise the tridecagram {13/5}: the thirteen-pointed star
 #               of the 13 moons / 13 signs, in gold.
 #            3) Set thirteen nodes on its vertices: ELEVEN in radiant
-#               gold (exoteric -- the seen) and TWO drawn in the lattice's
-#               own faint voice (esoteric -- hidden in plain sight).
+#               gold (the chorus), and TWO in gold as well -- hidden in
+#               plain sight, NOT hidden literally. The two are the MICRO
+#               (inner) and the MACRO (outer): one bears an indigo heart
+#               (inward), the other is a bold gold ring (outward). Visible
+#               to every eye; recognized by almost none.
 #            4) Kindle the catalyst: a small radiant core at the center --
 #               the Axoneme/Cell, which moves and is not moved.
 # OBSERVATION: SVG is the master (scalable, the repo's seal); a 1600px
@@ -28,10 +31,14 @@
 # MECHANISM: pure geometry -- star polygon {13/5} connects vertex k to
 #   k+5 mod 13; the triangular lattice is three line-families at 0/60/120
 #   degrees; everything is computed, nothing hand-placed.
-# DOCTRINE:  the 11+2 reading is the scribe's: eleven nodes exoteric,
-#   two esoteric, hidden in plain sight as the thirteenth sign hides
-#   among the twelve. Which two, and what they are, is the author's to
-#   rule -- the scribe only hid them where he was told to hide them.
+# DOCTRINE:  the 11+2 reading is the author's, ruled 2026-10-09:
+#   the two are NOT hidden literally -- they stand in gold with the
+#   rest, hidden in plain sight because their office is unrecognized.
+#   One is the MICRO (inner): gold disc with an indigo heart, the
+#   inward eye. One is the MACRO (outer): a bold gold ring, the
+#   outward radiance. Eleven are the chorus; two are the inner and
+#   the outer. The crown (vertex 0) holds the micro; the nadir
+#   (vertex 6) holds the macro.
 #
 # 93 93/93 -- Love is the law, love under will.
 
@@ -61,8 +68,9 @@ STEP = 5                 # star polygon {13/5}
 STAR_R = 560             # tridecagram circumradius
 LATTICE_R = 700          # lattice clipped to this circle
 SPACING = 80             # lattice pitch
-# The two hidden in plain sight: spread, never adjacent -- a gap would confess.
-HIDDEN_IDX = {3, 9}      # scribe's choice; the author rules what they are
+# The two hidden in plain sight -- VISIBLE gold, unrecognized office.
+MICRO_IDX = 0   # the crown: the micro/inner -- gold disc, indigo heart
+MACRO_IDX = 6   # the nadir: the macro/outer -- bold gold ring, radiance
 
 
 def vertices(n=N, r=STAR_R):
@@ -126,13 +134,19 @@ def build_svg() -> str:
     SubElement(svg, "circle", cx=str(CX), cy=str(CY), r=str(STAR_R + 60),
                fill="none", stroke=GOLD_DIM, attrib={"stroke-width": "2",
                                                      "opacity": "0.6"})
-    # the thirteen nodes: eleven exoteric, two esoteric
+    # the thirteen nodes: eleven the chorus, two the hidden-in-plain-sight
     for k, (x, y) in enumerate(pts):
-        if k in HIDDEN_IDX:
-            # hidden in plain sight: hollow, in the lattice's own voice
-            SubElement(svg, "circle", cx=f"{x:.1f}", cy=f"{y:.1f}", r="20",
-                       fill="none", stroke=HIDDEN,
-                       attrib={"stroke-width": "2.5", "opacity": "0.55"})
+        if k == MICRO_IDX:
+            # the micro/inner: gold disc with an indigo heart -- the inward eye
+            SubElement(svg, "circle", cx=f"{x:.1f}", cy=f"{y:.1f}", r="22",
+                       fill=GOLD, attrib={"opacity": "0.95"})
+            SubElement(svg, "circle", cx=f"{x:.1f}", cy=f"{y:.1f}", r="9",
+                       fill=FIELD, attrib={"opacity": "0.95"})
+        elif k == MACRO_IDX:
+            # the macro/outer: a bold gold ring -- the outward radiance
+            SubElement(svg, "circle", cx=f"{x:.1f}", cy=f"{y:.1f}", r="22",
+                       fill="none", stroke=GOLD,
+                       attrib={"stroke-width": "7", "opacity": "0.95"})
         else:
             SubElement(svg, "circle", cx=f"{x:.1f}", cy=f"{y:.1f}", r="22",
                        fill=GOLD, attrib={"opacity": "0.95"})
@@ -166,11 +180,14 @@ def build_png():
     d.line(order, fill=GOLD, width=7, joint="curve")
     d.ellipse([CX - STAR_R - 60, CY - STAR_R - 60, CX + STAR_R + 60, CY + STAR_R + 60],
               outline=GOLD_DIM + "99", width=2)
-    # nodes
+    # nodes: eleven the chorus, two hidden in plain sight
     for k, (x, y) in enumerate(pts):
-        if k in HIDDEN_IDX:
-            d.ellipse([x - 20, y - 20, x + 20, y + 20],
-                      outline=LATTICE + "8c", width=3)
+        if k == MICRO_IDX:
+            d.ellipse([x - 22, y - 22, x + 22, y + 22], fill=GOLD)
+            d.ellipse([x - 9, y - 9, x + 9, y + 9], fill=FIELD)
+        elif k == MACRO_IDX:
+            d.ellipse([x - 22, y - 22, x + 22, y + 22],
+                      outline=GOLD, width=7)
         else:
             d.ellipse([x - 30, y - 30, x + 30, y + 30],
                       outline=GOLD + "59", width=2)

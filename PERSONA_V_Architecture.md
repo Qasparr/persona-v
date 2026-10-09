@@ -172,6 +172,12 @@ When the deployer sets nothing, the deployment is a **seeded random combination*
 - **Light**: stdlib plus YAML. No network calls, no model downloads, no heavy frameworks. The personality composes in milliseconds.
 - **Fail-closed composition**: a malformed deployment (unknown trade, out-of-range name, negative tuner) raises at composition time — never silently degrades into a half-personality. This is the existing grimoire doctrine ("strict loading"), extended.
 
+## IV-A. The Sigil — the seal of the work
+
+**[DICTATION — his ruling 2026-10-09]** The thirteen nodes are hidden in plain sight — NOT hidden literally. They are the micro and the macro: the inner and the outer.
+
+The scribe's rendering **[SCRIBE]**: the tridecagram {13/5} raised in gold over the Axoneme vector lattice matrix, thirteen nodes on its vertices. Eleven are the chorus, solid gold. Two stand in gold with the rest — visible to every eye, recognized by almost none. The crown (vertex 0) is the **MICRO**, the inner: a gold disc with an indigo heart, the inward eye. The nadir (vertex 6) is the **MACRO**, the outer: a bold gold ring, the outward radiance. At the center burns the catalyst — the Cell that moves and is not moved. The seal is forged by `build_logo.py` (SVG master, PNG for print); it stands on the title page of this document's PDF twin.
+
 ---
 
 ## V. Shadow and Soul Integration [DESIGN]

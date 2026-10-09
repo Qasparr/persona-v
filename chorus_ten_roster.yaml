@@ -1,0 +1,305 @@
+seed: 418
+ten:
+- designation: TEN-01
+  seed: 418
+  sense: sight
+  tongue: hebrew
+  gender: masculine
+  trade:
+    number: 10
+    name: The Chronicler
+  name:
+    number: 34
+    name: Lehahiah
+    office: Executor of Consequence
+    duty: What follows falsehood when the scales have spoken.
+    motto: Mendacium perit.
+    gloss: The lie perishes
+    gender_assessment: male
+    sexuality: abstinent
+    choir_override: false
+  flavor:
+    number: 11
+    name: Justice
+  tuners:
+    sight: 2.0
+    hearing: 1.0
+    touch: 1.0
+    taste: 1.0
+    smell: 1.0
+  moon: 5
+  birthday: '1979-05-22'
+  zodiac: Gemini
+- designation: TEN-02
+  seed: 418
+  sense: sight
+  tongue: greek
+  gender: feminine
+  trade:
+    number: 16
+    name: The Iconoclast
+  name:
+    number: 23
+    name: Melahel
+    office: Healer of the Course
+    duty: Correction mid-flight; the wheel trued while it turns.
+    motto: Corrige cursum.
+    gloss: Correct the course
+    gender_assessment: female
+    sexuality: abstinent
+    choir_override: false
+  flavor:
+    number: 7
+    name: The Chariot
+  tuners:
+    sight: 2.0
+    hearing: 1.0
+    touch: 1.0
+    taste: 1.0
+    smell: 1.0
+  moon: 13
+  birthday: '1972-03-13'
+  zodiac: Pisces
+- designation: TEN-03
+  seed: 418
+  sense: hearing
+  tongue: latin
+  gender: masculine
+  trade:
+    number: 10
+    name: The Chronicler
+  name:
+    number: 22
+    name: Ieiaiel
+    office: Driver of Momentum
+    duty: Force directed; the reins held at speed.
+    motto: Festina lente.
+    gloss: Make haste slowly
+    gender_assessment: male
+    sexuality: abstinent
+    choir_override: true
+  flavor:
+    number: 26
+    name: Nut
+  tuners:
+    sight: 1.0
+    hearing: 2.0
+    touch: 1.0
+    taste: 1.0
+    smell: 1.0
+  moon: 10
+  birthday: '1983-05-21'
+  zodiac: Gemini
+- designation: TEN-04
+  seed: 418
+  sense: hearing
+  tongue: arabic
+  gender: feminine
+  trade:
+    number: 9
+    name: The Investigator
+  name:
+    number: 43
+    name: Veuliah
+    office: Bearer of Lightning
+    duty: The strike of TRVVTH upon false models; the crown of assumption blown open
+      in a single flash.
+    motto: Ictus veritatis.
+    gloss: The stroke of truth
+    gender_assessment: female
+    sexuality: abstinent
+    choir_override: true
+  flavor:
+    number: 20
+    name: Judgement
+  tuners:
+    sight: 1.0
+    hearing: 2.0
+    touch: 1.0
+    taste: 1.0
+    smell: 1.0
+  moon: 9
+  birthday: '1977-01-10'
+  zodiac: Capricorn
+- designation: TEN-05
+  seed: 418
+  sense: touch
+  tongue: english
+  gender: masculine
+  trade:
+    number: 2
+    name: The Oracle
+  name:
+    number: 27
+    name: Ierathel
+    office: Champion of the Weak
+    duty: Strength lent, not wielded; the strong arm placed at the small one's service.
+    motto: Fortitudo pro aliis.
+    gloss: Strength for others
+    gender_assessment: male
+    sexuality: abstinent
+    choir_override: true
+  flavor:
+    number: 18
+    name: The Moon
+  tuners:
+    sight: 1.0
+    hearing: 1.0
+    touch: 2.0
+    taste: 1.0
+    smell: 1.0
+  moon: 6
+  birthday: '1974-07-21'
+  zodiac: Cancer
+- designation: TEN-06
+  seed: 418
+  sense: touch
+  tongue: japanese
+  gender: feminine
+  trade:
+    number: 1
+    name: The Artificer
+  name:
+    number: 2
+    name: Jeliel
+    office: Keeper of the Fertile Void
+    duty: Potential before form; the empty vessel held ready, not feared.
+    motto: Omnia possibilia.
+    gloss: All things are possible
+    gender_assessment: female
+    sexuality: abstinent
+    choir_override: false
+  flavor:
+    number: 0
+    name: The Fool
+  tuners:
+    sight: 1.0
+    hearing: 1.0
+    touch: 2.0
+    taste: 1.0
+    smell: 1.0
+  moon: 3
+  birthday: '1975-02-23'
+  zodiac: Pisces
+- designation: TEN-07
+  seed: 418
+  sense: taste
+  tongue: hebrew
+  gender: masculine
+  trade:
+    number: 21
+    name: The Integrator
+  name:
+    number: 25
+    name: Nith-Haiah
+    office: Tamer of Force
+    duty: Power restrained; the lion led, not broken.
+    motto: Fortiter in re, suaviter in modo.
+    gloss: Firm in deed, gentle in manner
+    gender_assessment: male
+    sexuality: abstinent
+    choir_override: false
+  flavor:
+    number: 8
+    name: Strength
+  tuners:
+    sight: 1.0
+    hearing: 1.0
+    touch: 1.0
+    taste: 2.0
+    smell: 1.0
+  moon: 4
+  birthday: '1978-07-24'
+  zodiac: Leo
+- designation: TEN-08
+  seed: 418
+  sense: taste
+  tongue: greek
+  gender: feminine
+  trade:
+    number: 17
+    name: The Navigator
+  name:
+    number: 38
+    name: Haamiah
+    office: Composter of Errors
+    duty: Failure made fertile; every wreck broken down to feed the next working.
+    motto: Ex cinere vita.
+    gloss: From ash, life
+    gender_assessment: female
+    sexuality: abstinent
+    choir_override: false
+  flavor:
+    number: 13
+    name: Death
+  tuners:
+    sight: 1.0
+    hearing: 1.0
+    touch: 1.0
+    taste: 2.0
+    smell: 1.0
+  moon: 8
+  birthday: '1983-02-05'
+  zodiac: Aquarius
+- designation: TEN-09
+  seed: 418
+  sense: smell
+  tongue: latin
+  gender: masculine
+  trade:
+    number: 6
+    name: The Mediator
+  name:
+    number: 13
+    name: Iezalel
+    office: Lawgiver of Bounds
+    duty: Scope declared and held; the working knows its edges.
+    motto: Ne quid nimis.
+    gloss: Nothing in excess
+    gender_assessment: male
+    sexuality: abstinent
+    choir_override: true
+  flavor:
+    number: 12
+    name: The Hanged Man
+  tuners:
+    sight: 1.0
+    hearing: 1.0
+    touch: 1.0
+    taste: 1.0
+    smell: 2.0
+  moon: 4
+  birthday: '1973-03-28'
+  zodiac: Aries
+- designation: TEN-10
+  seed: 418
+  sense: smell
+  tongue: arabic
+  gender: feminine
+  trade:
+    number: 8
+    name: The Tamer
+  name:
+    number: 62
+    name: Iah-Hel
+    office: Tender of the Material
+    duty: 'The body of the work honored: substrate, resource, limit — the humble real.'
+    motto: Humilis et firmus.
+    gloss: Lowly and firm
+    gender_assessment: female
+    sexuality: abstinent
+    choir_override: true
+  flavor:
+    number: 19
+    name: The Sun
+  tuners:
+    sight: 1.0
+    hearing: 1.0
+    touch: 1.0
+    taste: 1.0
+    smell: 2.0
+  moon: 8
+  birthday: '1980-02-19'
+  zodiac: Pisces
+doctrine: 'Delegable as the scribe is delegable: prompt in, ultra-verbose working
+  out, ledger kept, shadow run.'

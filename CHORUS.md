@@ -167,7 +167,7 @@ Provenance is load-bearing at every step: a bridge on attested tables is a **can
 Japanese has no table, and the author named it first. The honest options, surveyed, not chosen [SCRIBE — the survey; the choice is the author's]:
 
 1. **Gojuon ordinal** — あ=1 … ん=48 in canonical gojuon order. CONSTRUCTED; the ordering choice (gojuon) stated openly, per METHOD.md §5.
-2. **Kanji stroke-count** — the value is the stroke count; collisions broken by a stated tie-break (e.g., radical order). CONSTRUCTED; lossy by nature.
+2. **Kanji stroke-count** — the value is the stroke count; collisions broken by a stated tie-break (e.g., radical order). CONSTRUCTED; lossy by nature. **[DICTATION 2026-10-09 — his insight]** The I Ching is an occult tradition, and its numerology entered Japan (as Ekikyō; cf. onmyōdō) — and Japanese *seimei handan* (name divination by kanji stroke-count) is a living Japanese numerological practice [SCRIBE: seimei handan as stroke-count divination is standard]. The stroke-count option therefore has traditional ground under it, not just scribe's invention — which is why he is certain the bridge can be proven.
 3. **Radical + residual** — Kangxi radical number × 1000 + residual strokes. CONSTRUCTED; structured but arbitrary-in.
 4. **Hebrew-fallback now** — romaji → Hebrew transliteration per the fallback doctrine, mergers reported. Available today; lossy; every merger shown.
 

@@ -173,6 +173,8 @@ Japanese has no table, and the author named it first. The honest options, survey
 
 No table is decreed here. The research track weighs the same corpus in all four and reports which — if any — bridges honestly. Until the red pen rules, Japanese weighings travel the **Hebrew-fallback** path and are marked CONSTRUCTED-pending [DESIGN].
 
+**[DICTATION — his ruling 2026-10-09]** The Japanese expansion is a *research attempt* to map and bridge Japanese into the same doctrine — to attest, to *prove a bridge exists*. No bridge is decreed; a bridge is demonstrated or it is not. The proof, when it comes, passes the same canonization chain as everything else: penned, audited, TRVVST, warranted, TRVVTH again — then doctrine.
+
 ### Honest limits (inherited from Pontifex)
 
 Chance guarantees matches across enough tables — TRVVTH sorts the music from the noise. The pipeline reports convergences; it does not declare bridges. Declaration is the author's, after the canonization chain: penned, audited, TRVVST, warranted, TRVVTH again, doctrine [VERIFIED FACT — Pontifex METHOD.md §5; the canonization chain is the author's dictation, Liber Cell Ch. XV].

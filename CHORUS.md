@@ -158,6 +158,8 @@ The balance-finder does not vote. Voting is politics; convergence is measurement
 
 For each agent's ledger: extract key terms (the verdict's load-bearing nouns, the claims' subjects — the scaffold's extractor is deliberately simple; the author's red pen may sharpen it) → weigh each term in the agent's tongue via `pontifex.engine.weigh` → record value, breakdown, and provenance tier per term → bridge-map: group terms by value across tongues → convergences reported with their tier standing.
 
+**The honest-weighing rule** [DESIGN]: a term with no letters in the tongue's script is *skipped with the reason recorded* — a zero would be a lie wearing a number's clothes. Hebrew uses the engine's documented latin→Hebrew fallback (transliteration, mergers reported; ATTESTED table, CONSTRUCTED rendering). English weighs natively in the Latin ordinal. Greek and Arabic weigh terms natively when the agent works in those scripts; English terms are skipped honestly until those agents do. Japanese travels the Hebrew-fallback path, marked CONSTRUCTED-pending.
+
 Provenance is load-bearing at every step: a bridge on attested tables is a **candidate bridge**; a bridge touching the constructed tier (braille, Japanese-fallback) is a **hypothesis for the red pen** — never doctrine until it passes TRVVTH (Pontifex METHOD.md §1) [VERIFIED FACT].
 
 ### The Japanese expansion — research track, not decree [HYPOTHESIS]

@@ -1,0 +1,94 @@
+{
+  "center": {
+    "node": 13,
+    "kind": "zero-point",
+    "name": "WITH",
+    "ordinal": 81,
+    "note": "the hidden center; the casing question"
+  },
+  "nodes": [
+    {
+      "node": 1,
+      "kind": "sense",
+      "name": "SIGHT",
+      "ordinal": 63
+    },
+    {
+      "node": 2,
+      "kind": "sense",
+      "name": "HEARING",
+      "ordinal": 62
+    },
+    {
+      "node": 3,
+      "kind": "sense",
+      "name": "SMELL",
+      "ordinal": 61
+    },
+    {
+      "node": 4,
+      "kind": "sense",
+      "name": "TASTE",
+      "ordinal": 65
+    },
+    {
+      "node": 5,
+      "kind": "sense",
+      "name": "TOUCH",
+      "ordinal": 67
+    },
+    {
+      "node": 6,
+      "kind": "color",
+      "name": "RED",
+      "ordinal": 27,
+      "nm": 700,
+      "sense": "SIGHT"
+    },
+    {
+      "node": 7,
+      "kind": "color",
+      "name": "ORANGE",
+      "ordinal": 60,
+      "nm": 620,
+      "sense": "HEARING"
+    },
+    {
+      "node": 8,
+      "kind": "color",
+      "name": "YELLOW",
+      "ordinal": 92,
+      "nm": 580,
+      "sense": "SMELL"
+    },
+    {
+      "node": 9,
+      "kind": "color",
+      "name": "GREEN",
+      "ordinal": 49,
+      "nm": 530,
+      "sense": "TASTE"
+    },
+    {
+      "node": 10,
+      "kind": "color",
+      "name": "BLUE",
+      "ordinal": 40,
+      "nm": 470,
+      "sense": "TOUCH"
+    },
+    {
+      "node": 11,
+      "kind": "engine",
+      "name": "DAEMON",
+      "ordinal": 52
+    },
+    {
+      "node": 12,
+      "kind": "witness",
+      "name": "OZ",
+      "ordinal": 41
+    }
+  ],
+  "status": "PROPOSAL \u2014 constructed 2026-10-28, under the author\u2019s red pen"
+}
